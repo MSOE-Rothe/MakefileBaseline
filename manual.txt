@@ -1,0 +1,40 @@
+Welcome to SHIPS!
+Rules:
+ The game is played by two players and the task of each
+ Of them is the elimination of enemy ships. Everyone from
+ Players have 20 ships, each occupying one field
+ 10x10 size board
+ The first will eliminate all 20 enemy ships.
+
+To start a new game, select 1.
+ Then select one of the game modes:
+  1. Game for two players \ n
+      In each traffic information is given
+      whose queue is additionally shown
+      Data about the hits and losses of the player.
+      The player also sees his ship's location,
+      which is determined randomly during the start of the game.
+      # means ship, _ - empty box
+
+      The player also has an auxiliary board
+      on which are marked the current moves:
+      X - means a hit ship
+      0 - blank field
+      _ unprocessed field
+
+      If you enter a common field
+      already checked, the program asks for them again
+      Downloading az to give the correct data.
+      Enter a character other than the number on this
+      The stage allows you to stop the game and automatically
+      state its condition.
+
+  2. Playing with the computer ":
+      In this mode, the player controls the game identically, then
+      observes the motion of the computer player
+
+Option 2. Load the game loads the previously saved state of the game
+if so
+
+Option 3. Shows player stats, winnings information
+and lost games.1 1
