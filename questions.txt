@@ -1,0 +1,9 @@
+1. What does the touch command do?  (Hint: man touch) Why might it be useful?
+
+2. What is inside of the files that are created with the s extension?
+
+3. If you had 1000 cpp files in a given project and you edited one of them and you simply issued the command g++ *.cpp -o myprogram, how many of the files would be recompiled?  If you did a make all after editing that single file, how many files would be recompiled?
+
+4. Why would it be more useful to only include dependencies on your project instead of all dependencies?
+
+5. What is the purpose for the clean option within the makefile?  Why would you use it?

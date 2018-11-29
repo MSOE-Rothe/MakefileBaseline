@@ -1,0 +1,9 @@
+[ 5 ]  Questions Answered properly
+[ 1 ]  Makefile properly defines dependencies
+[ 1 ]  Makefile Properly defines compilation options
+[ 1 ]  Makefile properly defines rules
+[ 1 ]  Makefile properly executes and builds the code
+[ 1 ]  Makefile properly identifies student
+[   ]  Total
+
+Comments:
